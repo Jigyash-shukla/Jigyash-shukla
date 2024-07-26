@@ -4,7 +4,6 @@
 - 📫 Contact mail shuklajgyash3@gmail.com
 - 😄 Pronouns:he/him
   
-
 <!---
 Jigyash-shukla/Jigyash-shukla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
